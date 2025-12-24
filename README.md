@@ -7,7 +7,7 @@ A script to enumerate the possible values of the pos, pos1, pos2, pos3, conj_typ
 
 **Output (2025-12-24):**
 
-CSV files scanned: 26
+CSV files scanned: 26  
 Rows scanned: 392126
 
 col5_pos: 13  
