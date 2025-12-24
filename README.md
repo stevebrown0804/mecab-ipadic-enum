@@ -2,7 +2,8 @@ A script to enumerate the possible values of the pos, pos1, pos2, pos3, conj_typ
 
 .csv files not included (in this repo; you can find them at ![the mecab repo](https://github.com/taku910/mecab) under mecab-ipadic).
 
-**Run with:** `cargo run -- .`  . is the directory to check for the .csv files, so substitute another as necessary.
+**Run with:** `cargo run -- .`  
+. is the directory to check for the .csv files, so substitute another as necessary.
 
 **Output (2025-12-24):**
 
